@@ -36,8 +36,22 @@ Os três princípios apresentados no texto ajudam a compreender melhor essa ques
 
 O segundo princípio, Scale and Growth, está relacionado à capacidade de adaptação de uma organização conforme ela cresce. Um software desenvolvido para atender a uma pequena quantidade de usuários, por exemplo, pode precisar de mudanças em sua estrutura quando passar a atender milhares de pessoas. Nesse cenário, é importante considerar a escalabilidade do sistema e a organização da equipe de desenvolvimento, garantindo que o crescimento não comprometa a qualidade e o desempenho da solução.
 
-Já o terceiro princípio, Trade-offs and Costs, demonstra que as decisões tomadas durante o desenvolvimento envolvem vantagens e desvantagens que precisam ser avaliadas. Nem sempre existe uma escolha que apresente apenas benefícios, por isso é necessário considerar as necessidades do projeto e os recursos disponíveis. Um exemplo disso pode ser a escolha entre Linux e Windows, em que se pode priorizar maior liberdade e personalização ou maior compatibilidade e familiaridade. Outro exemplo é a escolha entre servidores próprios e serviços em nuvem, equilibrando o controle sobre a infraestrutura com a flexibilidade e a escalabilidade. Também existe o equilíbrio entre segurança e praticidade, pois métodos de autenticação mais seguros podem tornar o acesso um pouco mais trabalhoso para os usuários.
-
-Esses exemplos mostram que as decisões técnicas não devem ser tomadas considerando apenas o que parece mais vantajoso no momento, mas também os possíveis impactos que poderão surgir futuramente. Uma escolha que inicialmente parece mais econômica, por exemplo, pode gerar custos maiores de manutenção ou adaptação depois de algum tempo.
+Já o terceiro princípio, Trade-offs and Costs, demonstra que as decisões tomadas durante o desenvolvimento envolvem vantagens e desvantagens que precisam ser avaliadas. Nem sempre existe uma escolha que apresente apenas benefícios, por isso é necessário considerar as necessidades do projeto e os recursos disponíveis. Dessa forma, é importante avaliar os custos e as consequências de cada decisão, considerando não apenas os resultados imediatos, mas também os possíveis impactos que poderão surgir ao longo do tempo.
 
 Dessa forma, considero que a sustentabilidade de um software depende tanto da qualidade do código quanto das decisões e práticas adotadas durante seu desenvolvimento. A utilização de testes, documentação, revisões de código e planejamento de atualizações contribui para tornar um sistema mais organizado e preparado para mudanças. Portanto, desenvolver um software sustentável significa pensar não somente em sua entrega, mas também em como ele será mantido, aprimorado e utilizado ao longo de sua existência.
+
+## 📚 Atividade 3
+
+### ENUNCIADO
+> Citar e explicar 3 exemplos de tradeoffs em software
+
+### RESPOSTA
+Durante o desenvolvimento de um software, é comum que os profissionais precisem tomar decisões que envolvem vantagens e desvantagens. Essas situações são chamadas de trade-offs e acontecem quando, ao escolher determinada solução, é necessário abrir mão de algum benefício ou aceitar uma limitação em troca de outra vantagem.
+
+Um primeiro exemplo é a escolha entre Linux e Windows. O Linux oferece maior liberdade de personalização e controle sobre o ambiente, mas pode exigir conhecimentos técnicos mais específicos. Já o Windows apresenta maior familiaridade para muitos usuários e compatibilidade com diversos programas, mas pode envolver custos de licenciamento. A escolha depende das necessidades do projeto e dos conhecimentos da equipe.
+
+Outro exemplo é a utilização de servidores próprios ou serviços em nuvem. Os servidores próprios oferecem maior controle sobre a infraestrutura, porém exigem investimentos em equipamentos, manutenção e gerenciamento. Já a computação em nuvem oferece maior flexibilidade e facilidade de expansão, mas gera custos recorrentes e pode criar dependência do fornecedor.
+
+Um terceiro exemplo está relacionado à segurança e à praticidade. Métodos de autenticação mais rigorosos, como a autenticação em dois fatores, aumentam a proteção das contas, mas tornam o acesso um pouco mais demorado. Por outro lado, métodos mais simples facilitam a utilização do sistema, mas podem oferecer menos segurança.
+
+Esses exemplos demonstram que não existe uma solução que seja sempre a melhor em todas as situações. Por isso, é importante avaliar as vantagens, desvantagens e os custos envolvidos em cada decisão, considerando as necessidades do projeto e seus possíveis impactos futuros. Assim, os trade-offs permitem escolhas mais conscientes e contribuem para a qualidade e a sustentabilidade do software.
